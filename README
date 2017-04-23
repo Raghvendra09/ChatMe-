@@ -1,2 +1,2 @@
-ChatME is a chatting application using socket programming in java. In this two users can chat if they are connected on the network.
-Client has to enter the IP address of server. 
+ChatME is a chatting application using socket programming in java. In this two users can chat if they are connected on the same  network.
+Client will need to enter the IP address of server. 
